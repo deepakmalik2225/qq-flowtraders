@@ -5,10 +5,10 @@
 ##################################################################################
 #                                LOGIC GOES BELOW                     		#
 ##################################################################################
-#
-#
-#
-#
+#to find sum and number of rolls for n number of sides 
+# there can be n^n possible cases we select those cases where 2nd number is larger than 1st number and we stop 
+# we sum that sequence and multiply by its probability of happening and add like this for all sequence and we get our sum of sequence
+#for the expected number of rolls we add probility of that sequence multiply by nuber of rolls in that sequence
 #
 ##################################################################################
 ##################################################################################
